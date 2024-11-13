@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Installation
+
+When you create your supabase, you must change the Auth confirmation path on step 6 of the supabase server-side next js guide - https://supabase.com/docs/guides/auth/server-side/nextjs?queryGroups=router&router=app
+
+
 ## Getting Started
 
 First, run the development server:
